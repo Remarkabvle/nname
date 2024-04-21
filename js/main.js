@@ -28,4 +28,4 @@ console.log(isLeapYear(2020));
 console.log(isLeapYear(2021));
 
 //10
-console.log(reverseString("5324"));
+console.log(reverseString("hello"));
